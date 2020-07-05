@@ -25,3 +25,6 @@ now again check users with `SELECT user,authentication_string,plugin,host FROM m
 ```
 
 Now you can access mysql by `mysql -u root` notice we have remove root password now. 
+
+
+install extensions for php development and testing `sudo apt-get install php-mysql sqlite3`
