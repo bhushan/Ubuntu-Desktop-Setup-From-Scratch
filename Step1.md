@@ -1,1 +1,1 @@
-Run `sudo apt update && sudo apt upgrade && sudo apt clean`
+* run in terminal `sudo apt update && sudo apt upgrade && sudo apt clean`
