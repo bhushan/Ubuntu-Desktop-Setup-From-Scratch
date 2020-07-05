@@ -32,5 +32,11 @@ build_prompt() {
   prompt_end
 }
 ```
+Go to terminal -> edit -> preferences  and change below settings 
+In Text tab
+- change cell spacing width to 1.50
+- Terminal Bell untick 
+In Colors tab
+- untick Use colors from system theme
 
-Now reboot system to see changes
+Now reboot system to changes to take efect.
