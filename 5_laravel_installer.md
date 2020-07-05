@@ -7,6 +7,11 @@ install required extensions
 now run
 
 ```bash
+echo 'export PATH="$PATH:$HOME/.composer/vendor/bin"' >> ~/.zshrc 
 composer global require laravel/installer
 cd ~ && mkdir Code && cd Code
 ```
+
+now create test project 
+
+`laravel new test`
