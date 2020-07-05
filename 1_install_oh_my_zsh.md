@@ -32,3 +32,5 @@ build_prompt() {
   prompt_end
 }
 ```
+
+Now reboot System to see changes
