@@ -8,6 +8,9 @@ If you need to install another version, for example 14.x, just change setup_12.x
 
 `sudo apt install nodejs`
 verify running `node -v`
+
+NPM gets automatically installed .. you can skip this.
+
 * Install npm
 
 `sudo apt install npm`
