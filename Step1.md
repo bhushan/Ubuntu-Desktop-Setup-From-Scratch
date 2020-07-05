@@ -9,6 +9,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock dock-fixed false
 
 gsettings set org.gnome.shell.extensions.dash-to-dock intellihide false
 ```
+* Install Chrome from https://www.google.com/chrome/ this will automatically and google repository and also will make sure chrome is upto date.
 
 * How to remove FireFox from Ubuntu ?
 
