@@ -7,3 +7,6 @@ sudo apt-get update
 ```
 
 Now install PHP 7.4 using `sudo apt -y install php7.4`
+
+
+verify running `php -v`
