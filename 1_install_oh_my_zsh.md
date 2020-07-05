@@ -33,4 +33,4 @@ build_prompt() {
 }
 ```
 
-Now reboot System to see changes
+Now reboot system to see changes
