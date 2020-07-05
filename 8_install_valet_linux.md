@@ -11,3 +11,5 @@ Create a new directory on your machine by running something like `mkdir ~/Code`.
 `cd ~/Code` and run `valet park`.
 This command will register your current working directory as a path that Valet should search for sites.
 
+Restart machine to see effects. 
+
