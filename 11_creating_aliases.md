@@ -5,6 +5,7 @@ copy following aliases to `.aliases` file.
 
 ```bash
 alias cc="clear"
+alias x="exit"
 alias update="sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt clean"
 alias dump="composer dump-autoload -o"
 alias watch="npm run watch"
