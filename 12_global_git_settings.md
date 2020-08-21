@@ -26,7 +26,7 @@ Obviously email/name should be yours.
 
 `git config --global core.editor "vim"`
 
-4) Git Credential Store
+4) Git Credential Store:
 
 `git config --global credential.helper cache`
 
