@@ -12,3 +12,8 @@ sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 ```
 
 verify running `composer`
+
+also run below command to make composer executables available to run directly.
+
+`echo 'export PATH=$PATH:$HOME/.config/composer/vendor/bin' >> ~/.zshrc`
+
