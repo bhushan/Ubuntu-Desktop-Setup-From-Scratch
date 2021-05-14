@@ -2,7 +2,7 @@ run
 
 `sudo apt update && sudo apt install mysql-server`
 
-now run `sudo mysql_secure_installation` select yes for all
+now run `sudo mysql_secure_installation` select No for validate_plugin install (first question) and then yes for all
 
 now run `sudo mysql` and fire `SELECT user,authentication_string,plugin,host FROM mysql.user;` this query to see users.
 
