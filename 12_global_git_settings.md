@@ -30,3 +30,7 @@ Obviously email/name should be yours.
 
 `git config --global credential.helper cache`
 
+
+5) Git pull stratergy to fast forward only (Only available in GIT 2.27 and above) 
+
+`git config --global pull.ff only`
